@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.yq.day04.MainActivity">
+
+    <com.example.yq.day04.RectRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <com.example.yq.day04.TouchImageView
+            android:id="@+id/iv"
+            android:src="@drawable/nature_2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </com.example.yq.day04.RectRelativeLayout>
+    <Button
+        android:onClick="cropClick"
+        android:text="截图"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:background="#efbfbf"
+        android:id="@+id/new_iv"
+        android:layout_width="75dp"
+        android:layout_height="75dp" />
+
+</LinearLayout>
