@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "E:\\android\\app\\Day04\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "E:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "E:\\android\\app\\Day04\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "E:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "E:\\android\\app\\Day04\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    }
+]

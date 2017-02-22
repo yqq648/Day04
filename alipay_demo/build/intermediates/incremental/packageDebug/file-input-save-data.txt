@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Feb 22 16:40:36 CST 2017
+2.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\pay_external.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\msp_demo_title.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\pay_main.xml
+5.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+1.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\msp_icon.png
+6.set=DEX
+0.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\msp_demo_title_bg.png
+3.set=ANDROID_RESOURCE
+1.base=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "E:\\android\\app\\Day04\\alipay_demo\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "E:\\android\\app\\Day04\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "E:\\android\\app\\Day04\\alipay_demo\\src\\main\\res\\layout\\pay_main.xml"
+    }
+]
