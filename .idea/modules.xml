@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day04.iml" filepath="$PROJECT_DIR$/Day04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipay_demo/alipay_demo.iml" filepath="$PROJECT_DIR$/alipay_demo/alipay_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropimage/cropimage.iml" filepath="$PROJECT_DIR$/cropimage/cropimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenfit/screenfit.iml" filepath="$PROJECT_DIR$/screenfit/screenfit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view_event/view_event.iml" filepath="$PROJECT_DIR$/view_event/view_event.iml" />
     </modules>
   </component>
 </project>

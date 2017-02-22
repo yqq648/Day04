@@ -4,14 +4,14 @@
 sw<N>dp
 简单划分：六种通用屏幕密度 dp inch
 ldpi------160*0.75=120
-mdpi------160*1=160
+mdpi------160*1=160          40px*40px
 hdpi------160*1.5=240
 xhdpi------160*2=320
 xxhdpi------160*3=480
 xxxhdpi------160*4=640
 =====3:4:6:8:12:16
 nodpi
-tvdpi(mdpi<tvdpi<hdpi)≈213dpi
+tvdpi(mdpi<tvdpi<hdpi)≈213dp
 
 =========
 纵横比

@@ -1,1 +1,2 @@
-include ':app', ':screenfit'
+include ':cropimage', ':screenfit', ':view_event'
+include ':alipay_demo'

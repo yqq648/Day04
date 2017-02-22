@@ -23,7 +23,7 @@ public class LeftFragment extends ListFragment {
             "让我们荡起双桨","卖报歌"};
     public int currentPosition = 0;
 
-    @Override
+    @Override//Activity链接成功
     public void onAttach(Context context) {
         super.onAttach(context);
         selectedListener = (SelectedListener) context;
@@ -36,17 +36,19 @@ public class LeftFragment extends ListFragment {
                 android.R.layout.simple_list_item_activated_1,lefts));
     }
 
-    @Override
+    @Override//当fragment中的view被创建完毕
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+        //设置ListView单选
         getListView().setChoiceMode(ListView.CHOICE_MODE_SINGLE);
         getListView().setItemChecked(currentPosition, true);
     }
 
-    @Override
+    @Override//ListView点击事件
     public void onListItemClick(ListView l, View v, int position, long id) {
         currentPosition = position;
         getListView().setItemChecked(currentPosition, true);
+        //
         selectedListener.selectedItem(position);
     }
     private SelectedListener selectedListener;
